@@ -2,8 +2,12 @@
 
 Página web: <https://jailcomfranssa.github.io/javascript-lista_de_compras/>
 
+<div style="display: inline_block" align="center">
+    <img src="https://github.com/jailcomfranssa/javascript-lista_de_compras/blob/main/img/listaCompras.png" width="500" />
+    <img src="https://github.com/jailcomfranssa/javascript-lista_de_compras/blob/main/img/listacompras2.png" width="500" />
+</div>
 
-<img src="https://github.com/jailcomfranssa/javascript-lista_de_compras/blob/main/img/listaCompras.png" width="500" />
+
 
 <div style="display: inline_block" align="center">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
